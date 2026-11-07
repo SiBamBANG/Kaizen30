@@ -1,0 +1,7 @@
+{
+  "appId": "com.kaizen30.app",
+  "appName": "Kaizen30",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false }
+}
